@@ -1,0 +1,12 @@
+#https://wei.github.io/pull/
+version: "1"
+rules:
+  - base: 11.0
+    upstream: OCA:OCB    # change `wei` to the owner of upstream repo
+    mergeMethod: none
+  - base: 12.0
+    upstream: OCA:OCB    # change `wei` to the owner of upstream repo
+    mergeMethod: none
+  - base: 13.0
+    upstream: OCA:OCB    # change `wei` to the owner of upstream repo
+    mergeMethod: none
