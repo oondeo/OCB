@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+echo "------ HOOK START - POST_CHECKOUT -------"
+git submodule update --init --recursive
+cp -a "$(dirname $0)/../doodba/odoo/hooks" "$(dirname $0)../"
+echo "------ HOOK END - POST_CHECKOUT -------"
