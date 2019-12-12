@@ -4,3 +4,4 @@ rules:
   - base: 13.0
     upstream: OCA:OCB    # change `wei` to the owner of upstream repo
     mergeMethod: none
+
