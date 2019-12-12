@@ -1,3 +1,4 @@
 [submodule "doodba"]
 	path = doodba
 	url = https://github.com/oondeo/doodba-scaffolding
+	branch = 10.0-oondeo
