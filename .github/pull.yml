@@ -1,6 +1,6 @@
 version: "1"
 rules:
-  - base: "13.0"
+  - base: 13.0
     upstream: OCA:OCB    # change `wei` to the owner of upstream repo
     mergeMethod: none
 
